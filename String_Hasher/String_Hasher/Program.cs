@@ -29,7 +29,7 @@ namespace StringHasher
             }
             else
             {
-             Console.WrirteLine("Enter a valid input");
+             Console.WriteLine("Enter a valid input");
             }
         }
     }
