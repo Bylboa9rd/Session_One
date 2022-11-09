@@ -1,0 +1,15 @@
+C:\Users\KALU'S PC\source\repos\Break_Vs_Continue\Break_Vs_Continue\bin\Debug\net6.0\Break_Vs_Continue.exe
+C:\Users\KALU'S PC\source\repos\Break_Vs_Continue\Break_Vs_Continue\bin\Debug\net6.0\Break_Vs_Continue.deps.json
+C:\Users\KALU'S PC\source\repos\Break_Vs_Continue\Break_Vs_Continue\bin\Debug\net6.0\Break_Vs_Continue.runtimeconfig.json
+C:\Users\KALU'S PC\source\repos\Break_Vs_Continue\Break_Vs_Continue\bin\Debug\net6.0\Break_Vs_Continue.dll
+C:\Users\KALU'S PC\source\repos\Break_Vs_Continue\Break_Vs_Continue\bin\Debug\net6.0\Break_Vs_Continue.pdb
+C:\Users\KALU'S PC\source\repos\Break_Vs_Continue\Break_Vs_Continue\obj\Debug\net6.0\Break_Vs_Continue.csproj.AssemblyReference.cache
+C:\Users\KALU'S PC\source\repos\Break_Vs_Continue\Break_Vs_Continue\obj\Debug\net6.0\Break_Vs_Continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KALU'S PC\source\repos\Break_Vs_Continue\Break_Vs_Continue\obj\Debug\net6.0\Break_Vs_Continue.AssemblyInfoInputs.cache
+C:\Users\KALU'S PC\source\repos\Break_Vs_Continue\Break_Vs_Continue\obj\Debug\net6.0\Break_Vs_Continue.AssemblyInfo.cs
+C:\Users\KALU'S PC\source\repos\Break_Vs_Continue\Break_Vs_Continue\obj\Debug\net6.0\Break_Vs_Continue.csproj.CoreCompileInputs.cache
+C:\Users\KALU'S PC\source\repos\Break_Vs_Continue\Break_Vs_Continue\obj\Debug\net6.0\Break_Vs_Continue.dll
+C:\Users\KALU'S PC\source\repos\Break_Vs_Continue\Break_Vs_Continue\obj\Debug\net6.0\refint\Break_Vs_Continue.dll
+C:\Users\KALU'S PC\source\repos\Break_Vs_Continue\Break_Vs_Continue\obj\Debug\net6.0\Break_Vs_Continue.pdb
+C:\Users\KALU'S PC\source\repos\Break_Vs_Continue\Break_Vs_Continue\obj\Debug\net6.0\Break_Vs_Continue.genruntimeconfig.cache
+C:\Users\KALU'S PC\source\repos\Break_Vs_Continue\Break_Vs_Continue\obj\Debug\net6.0\ref\Break_Vs_Continue.dll
