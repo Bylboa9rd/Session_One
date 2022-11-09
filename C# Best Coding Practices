@@ -1,0 +1,48 @@
+/*
+ C# Best Coding Practices
+ 
+ 1. Avoid using a lof of comments, if any, its purpose should be clear
+ Never try to explain what your code does line by line
+ 
+ 2. Use the proper naming convention. for example: 
+  Method parameter - camelCase
+  Variable - camelCase
+  Namespace -	PascalCase
+  Class -	PascalCase
+  Method name -	PascalCase
+  Property -	PascalCase
+  Field  - 	_camelCase
+  
+  3. Keep your methods short.
+  
+  4. Do not give your methods too many parameters, having just two parameters is OK
+  
+  5. Avoid complicated conditional logic in your code. 
+  
+  6. Try not to repeat code - DRY (Dont Repeat Yourself)
+  
+  7. Use the KISS principle (Keep It Simple, Stupid). Avoid writing complex code you'd end up forgetting how you came by.
+  
+  8. Remember someone else might hhave to maintain your code, so write "human understandable£" code
+  
+  9. Follow the Boys' Scout Rule - leaving the code better than you found it.
+  
+  10. Use the best IDE available
+  
+  11. Perform code reviews, this helps you get more familiar with codes and coding concepts, even spotting errors.
+  
+  12. Eliminate dead or unused code
+  
+  13. Minimize the use of global variables that are accessible from anywherw within the code
+  
+  14. Write private code, using private fields and methods as much as possible in your code
+  
+  15. Use constants instead of magic numbers/magic strings
+  
+  for example: 
+  instead of 
+  if (items.Count > 5)
+  we use a variable instead
+  if (itemsInCart < MAXIMUM_SIZE_FOR_DISCOUNT)
+      
+*/
