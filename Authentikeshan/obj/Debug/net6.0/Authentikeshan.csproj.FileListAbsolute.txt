@@ -1,0 +1,15 @@
+C:\Users\KALU'S PC\source\repos\Authentikeshan\bin\Debug\net6.0\Authentikeshan.exe
+C:\Users\KALU'S PC\source\repos\Authentikeshan\bin\Debug\net6.0\Authentikeshan.deps.json
+C:\Users\KALU'S PC\source\repos\Authentikeshan\bin\Debug\net6.0\Authentikeshan.runtimeconfig.json
+C:\Users\KALU'S PC\source\repos\Authentikeshan\bin\Debug\net6.0\Authentikeshan.dll
+C:\Users\KALU'S PC\source\repos\Authentikeshan\bin\Debug\net6.0\Authentikeshan.pdb
+C:\Users\KALU'S PC\source\repos\Authentikeshan\obj\Debug\net6.0\Authentikeshan.csproj.AssemblyReference.cache
+C:\Users\KALU'S PC\source\repos\Authentikeshan\obj\Debug\net6.0\Authentikeshan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KALU'S PC\source\repos\Authentikeshan\obj\Debug\net6.0\Authentikeshan.AssemblyInfoInputs.cache
+C:\Users\KALU'S PC\source\repos\Authentikeshan\obj\Debug\net6.0\Authentikeshan.AssemblyInfo.cs
+C:\Users\KALU'S PC\source\repos\Authentikeshan\obj\Debug\net6.0\Authentikeshan.csproj.CoreCompileInputs.cache
+C:\Users\KALU'S PC\source\repos\Authentikeshan\obj\Debug\net6.0\Authentikeshan.dll
+C:\Users\KALU'S PC\source\repos\Authentikeshan\obj\Debug\net6.0\refint\Authentikeshan.dll
+C:\Users\KALU'S PC\source\repos\Authentikeshan\obj\Debug\net6.0\Authentikeshan.pdb
+C:\Users\KALU'S PC\source\repos\Authentikeshan\obj\Debug\net6.0\Authentikeshan.genruntimeconfig.cache
+C:\Users\KALU'S PC\source\repos\Authentikeshan\obj\Debug\net6.0\ref\Authentikeshan.dll
