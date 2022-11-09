@@ -26,7 +26,7 @@ class User
             return;
         }
 
-        Console.WriteLine("You are now being redirected to the log in page");
+        Console.WriteLine("You are now being redirected to the log in page\n\n");
         Console.Write("Enter your username: ");
         string userName = Console.ReadLine();
 
