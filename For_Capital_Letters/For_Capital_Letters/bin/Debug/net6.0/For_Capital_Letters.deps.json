@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "For_Capital_Letters/1.0.0": {
+        "runtime": {
+          "For_Capital_Letters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "For_Capital_Letters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

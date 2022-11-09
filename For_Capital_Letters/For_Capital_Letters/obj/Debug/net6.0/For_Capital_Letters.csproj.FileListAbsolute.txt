@@ -1,0 +1,15 @@
+C:\Users\KALU'S PC\source\repos\For_Capital_Letters\For_Capital_Letters\bin\Debug\net6.0\For_Capital_Letters.exe
+C:\Users\KALU'S PC\source\repos\For_Capital_Letters\For_Capital_Letters\bin\Debug\net6.0\For_Capital_Letters.deps.json
+C:\Users\KALU'S PC\source\repos\For_Capital_Letters\For_Capital_Letters\bin\Debug\net6.0\For_Capital_Letters.runtimeconfig.json
+C:\Users\KALU'S PC\source\repos\For_Capital_Letters\For_Capital_Letters\bin\Debug\net6.0\For_Capital_Letters.dll
+C:\Users\KALU'S PC\source\repos\For_Capital_Letters\For_Capital_Letters\bin\Debug\net6.0\For_Capital_Letters.pdb
+C:\Users\KALU'S PC\source\repos\For_Capital_Letters\For_Capital_Letters\obj\Debug\net6.0\For_Capital_Letters.csproj.AssemblyReference.cache
+C:\Users\KALU'S PC\source\repos\For_Capital_Letters\For_Capital_Letters\obj\Debug\net6.0\For_Capital_Letters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KALU'S PC\source\repos\For_Capital_Letters\For_Capital_Letters\obj\Debug\net6.0\For_Capital_Letters.AssemblyInfoInputs.cache
+C:\Users\KALU'S PC\source\repos\For_Capital_Letters\For_Capital_Letters\obj\Debug\net6.0\For_Capital_Letters.AssemblyInfo.cs
+C:\Users\KALU'S PC\source\repos\For_Capital_Letters\For_Capital_Letters\obj\Debug\net6.0\For_Capital_Letters.csproj.CoreCompileInputs.cache
+C:\Users\KALU'S PC\source\repos\For_Capital_Letters\For_Capital_Letters\obj\Debug\net6.0\For_Capital_Letters.dll
+C:\Users\KALU'S PC\source\repos\For_Capital_Letters\For_Capital_Letters\obj\Debug\net6.0\refint\For_Capital_Letters.dll
+C:\Users\KALU'S PC\source\repos\For_Capital_Letters\For_Capital_Letters\obj\Debug\net6.0\For_Capital_Letters.pdb
+C:\Users\KALU'S PC\source\repos\For_Capital_Letters\For_Capital_Letters\obj\Debug\net6.0\For_Capital_Letters.genruntimeconfig.cache
+C:\Users\KALU'S PC\source\repos\For_Capital_Letters\For_Capital_Letters\obj\Debug\net6.0\ref\For_Capital_Letters.dll
