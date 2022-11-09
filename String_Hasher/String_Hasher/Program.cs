@@ -23,9 +23,13 @@ namespace StringHasher
 
                 Console.Write(lastFour);
             }
-            else
+            else if (word.Length < four)
             {
                 Console.WriteLine(word);
+            }
+            else
+            {
+             Console.WrirteLine("Enter a valid input");
             }
         }
     }
